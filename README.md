@@ -39,7 +39,7 @@
     <section>
         <h2>About Me</h2>
         <p>
-            Hi, I'm <strong>[Your Name]</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data, particularly in financial products and related domains.
+            Hi, I'm <strong>Shubham Rawat</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data, particularly in financial products and related domains.
         </p>
         <p>
             With a diverse background that bridges technical expertise and a deep curiosity for scientific research, I specialize in:
@@ -71,21 +71,14 @@
                     <li><a href="#">View Project</a></li>
                 </ul>
             </li>
-            <li>
-                <strong>Hackathon Project</strong>
-                <ul>
-                    <li>Optimizing urban sustainability through big data analytics.</li>
-                    <li><a href="#">Learn More</a></li>
-                </ul>
-            </li>
         </ol>
     </section>
     <section>
         <h2>Skills</h2>
         <ul>
             <li><strong>Programming</strong>: Python, SQL, Excel, Machine Learning</li>
-            <li><strong>Tools</strong>: Jupyter, Tableau, Matplotlib, Seaborn</li>
-            <li><strong>Databases</strong>: MySQL, PostgreSQL, BigQuery</li>
+            <li><strong>Tools</strong>: Jupyter, Tableau, Matplotlib, Seaborn, Git, Docker, Power BI</li>
+            <li><strong>Databases</strong>: MySQL, PostgreSQL</li>
         </ul>
     </section>
    <section>
