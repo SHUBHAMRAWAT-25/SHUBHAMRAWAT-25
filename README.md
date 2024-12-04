@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <header>
-        <h1>Welcome to My GitHub! 👋</h1>
-    </header>
-    <section>
-        <h2>About Me</h2>
-        <p>
-            Hi, I'm <strong>Shubham Rawat</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data.
-        </p>
-        <p>
-            With a diverse background that bridges technical expertise and a deep curiosity for scientific research, I specialize in:
-        </p>
-        <ul>
-            <li><strong>Data Infrastructure</strong>: Building robust systems using Python, data warehousing, and machine learning.</li>
-            <li><strong>Data Analysis & Engineering</strong>: Extracting, processing, and automating workflows to uncover hidden insights from various sources.</li>
-            <li><strong>Relational Databases</strong>: Mastery of SQL for complex data manipulation and integration.</li>
-            <li><strong>Data Visualization</strong>: Transforming raw data into actionable insights through intuitive visualizations.</li>
-        </ul>
-        <p>My goal is to deliver clear, actionable insights that empower decision-making and foster trust in data-driven solutions.</p>
-    </section>
-
    <!DOCTYPE html>
 <html lang="en">
 <head>
