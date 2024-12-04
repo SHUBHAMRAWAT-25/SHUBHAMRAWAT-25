@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
 </head>
 <body>
     <header>
@@ -26,14 +25,33 @@
         <p>My goal is to deliver clear, actionable insights that empower decision-making and foster trust in data-driven solutions.</p>
     </section>
 
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My GitHub! 👋</h1>
+    </header>
     <section>
-        <h2>Areas of Focus</h2>
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm <strong>[Your Name]</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data, particularly in financial products and related domains.
+        </p>
+        <p>
+            With a diverse background that bridges technical expertise and a deep curiosity for scientific research, I specialize in:
+        </p>
         <ul>
-            <li><strong>Financial Analytics</strong>: Exploring datasets to optimize transparency and drive strategic outcomes.</li>
-            <li><strong>Machine Learning</strong>: Designing models that translate patterns into predictive capabilities.</li>
+            <li><strong>Data Infrastructure</strong>: Building robust systems using Python, data warehousing, and machine learning.</li>
+            <li><strong>Data Analysis & Engineering</strong>: Extracting, processing, and automating workflows to uncover hidden insights from various sources.</li>
+            <li><strong>Relational Databases</strong>: Mastery of SQL for complex data manipulation and integration.</li>
+            <li><strong>Data Visualization</strong>: Transforming raw data into actionable insights through intuitive visualizations.</li>
         </ul>
+        <p>My goal is to deliver clear, actionable insights that empower decision-making and foster trust in data-driven solutions.</p>
     </section>
-
     <section>
         <h2>Notable Projects</h2>
         <ol>
@@ -52,27 +70,31 @@
                     <li>Tools: Scikit-learn, NumPy, UCI Dataset.</li>
                     <li><a href="#">View Project</a></li>
                 </ul>
+            </li>
+            <li>
+                <strong>Hackathon Project</strong>
+                <ul>
+                    <li>Optimizing urban sustainability through big data analytics.</li>
+                    <li><a href="#">Learn More</a></li>
                 </ul>
             </li>
         </ol>
     </section>
-
     <section>
         <h2>Skills</h2>
         <ul>
             <li><strong>Programming</strong>: Python, SQL, Excel, Machine Learning</li>
-            <li><strong>Tools</strong>: Jupyter, Tableau, Matplotlib, Seaborn,Google colab</li>
-            <li><strong>Databases</strong>: MySQL, PostgreSQL</li>
+            <li><strong>Tools</strong>: Jupyter, Tableau, Matplotlib, Seaborn</li>
+            <li><strong>Databases</strong>: MySQL, PostgreSQL, BigQuery</li>
         </ul>
     </section>
-
-    <section>
+   <section>
         <h2>Connect With Me</h2>
         <p>Feel free to connect for collaborations, discussions, or knowledge sharing:</p>
         <ul>
-            <li>🐦 <a href="#">Twitter</a></li>
-            <li>💼 <a href="#">LinkedIn</a></li>
-            <li>📫 <a href="#">Email</a></li>
+            <li>🐦 <a href="https://x.com/Shubham_Rawat1">Twitter</a></li>
+            <li>💼 <a href="https://www.linkedin.com/in/shubhamrawat12/">LinkedIn</a></li>
+            <li>📫 <a href="shub.rawat25@gmail.com">Email</a></li>
         </ul>
     </section>
 </body>
