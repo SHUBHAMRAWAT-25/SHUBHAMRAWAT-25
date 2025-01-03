@@ -28,19 +28,19 @@
         <h2>Notable Projects</h2>
         <ol>
             <li>
-                <strong>Fandango-Rating Mismatch</strong>
+                <strong>Toamn Bike Shares Analysis</strong>
                 <ul>
-                    <li>Investigated discrepancies in movie ratings between platforms like Fandango, IMDb, and Metacritic.</li>
-                    <li>Tools: Python, Pandas, Matplotlib, Seaborn.</li>
-                    <li><a href="#">View Project</a></li>
+                    <li> Developed a comprehensive Power BI dashboard to analyze Toman Bike Share sales data, enhancing strategic decision-making through actionable insights.</li>
+                    <li>Tools: SQL,Power BI.</li>
+                    <li><a href="https://github.com/SHUBHAMRAWAT-25/Toman-Bike-Shares-Analysis">View Project</a></li>
                 </ul>
             </li>
             <li>
-                <strong>Heart Disease Classification Model</strong>
+                <strong>Orders Data Analysis Project</strong>
                 <ul>
-                    <li>Developed a machine learning model to detect heart disease based on clinical features.</li>
-                    <li>Tools: Scikit-learn, NumPy, UCI Dataset.</li>
-                    <li><a href="#">View Project</a></li>
+                    <li>Developed an end-to-end data analytics solution for order datasets, utilizing Python for data preprocessing and SQL Server for in-depth business analysis, uncovering key insights like top-performing products and year-over-year sales trends.</li>
+                    <li>Tools: Pandas, Kaggle, SQL, SQLalchemy.</li>
+                    <li><a href="https://github.com/SHUBHAMRAWAT-25/Orders-Data-Analysis">View Project</a></li>
                 </ul>
             </li>
         </ol>
