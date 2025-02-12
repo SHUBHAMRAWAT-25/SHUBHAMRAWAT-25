@@ -49,7 +49,7 @@
         <h2>Skills</h2>
         <ul>
             <li><strong>Programming</strong>: Python, SQL, Excel, Machine Learning</li>
-            <li><strong>Tools</strong>: Jupyter, Tableau, Matplotlib, Seaborn, Git, Docker, Power BI</li>
+            <li><strong>Tools</strong>: Jupyter Notebook, Tableau, Matplotlib, Seaborn, Git, Docker, Power BI, Pyspark, DataBricks</li>
             <li><strong>Databases</strong>: MySQL, PostgreSQL</li>
         </ul>
     </section>
