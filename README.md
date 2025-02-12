@@ -11,7 +11,7 @@
     <section>
         <h2>About Me</h2>
         <p>
-            Hi, I'm <strong>Shubham Rawat</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data, particularly in financial products and related domains.
+            Hi, I'm <strong>Shubham Rawat</strong>, a data enthusiast driven by a passion for creating effective solutions for managing, analyzing, and reporting data in any domain.
         </p>
         <p>
             With a diverse background that bridges technical expertise and a deep curiosity for scientific research, I specialize in:
