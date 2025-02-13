@@ -48,9 +48,9 @@
     <section>
         <h2>Skills</h2>
         <ul>
-            <li><strong>Programming</strong>: Python, SQL, Excel, Machine Learning</li>
-            <li><strong>Tools</strong>: Jupyter Notebook, Tableau, Matplotlib, Seaborn, Git, Docker, Power BI, Pyspark, DataBricks</li>
-            <li><strong>Databases</strong>: MySQL, PostgreSQL</li>
+            <li><strong>Programming and Databases:</strong> Python, SQL (MySQL, SQL Server Management studio, PostgreSQL) </li>li
+            <li><strong>Tools</strong>: Jupyter Notebook, Tableau, Matplotlib, Seaborn, Git, Docker, Power BI,  DataBricks Notebook</li>
+            <li><strong>Data Science: </strong>Exploratory Data Analysis (Pandas, NumPy, Matplotlib, Seaborn), Data Visualization (Tableau, PowerBI, Excel), Machine Learning(Feature Engineering, Model Evaluation, Statistical Analysis, Hypothesis Testing), Pyspark</li>
         </ul>
     </section>
    <section>
